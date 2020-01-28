@@ -1,11 +1,27 @@
-<span id="a">admin@ubfm</span>:<span id="b">~</span><span id="c">$</span> cd ubfm/projects/website/<!-- kjsdfhkjdhsfkjdshfkj -->About
-<span id="a">admin@ubfm</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->index.txt<br/><br/>
+<span id="a">admin@ubfm</span>:<span id="b">~</span><span id="c">$</span> cd projects/ubfm/website/<!-- kjsdfhkjdhsfkjdshfkj -->
+<span id="a">admin@ubfm</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->about.txt<br/><br/>
 
-Hi! I'm still working on our general information. As you see github still remain as a preference and I'm exploring various optios that include blogging with Jekyl.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
-<p>Current DB';s that I'm working on include PostgreSQL and MySQL.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf --> 
-< <br><
-<p> Feel free to see what we are working here: <br> <a href="https://github.com/ubfm?tab=repositories">ubfm repo list</a> <br> 
+Hi! I'm still working on our general information. As you see github.com still remain as a preference. In addition to new WIP site I'm reading on blogging with Jekyl.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
+<p> based on the DB's I'm working on right now you know I'll promote open source. Flavor of chouce will remain PostgreSQL and MySQL but I'll work on to include some of the .</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf --> 
+<br>
+<p> Feel free to see what we are working here: <a href="https://github.com/ubfm?tab=repositories">ubfm repo list</a> <br> 
 
-Fee free to ping me on twitter <!-- slightdelayhere--> at<!-- longlonglongcomment --><a href="@illopenhandle">Twittter</a>.
+Feel free to ping me on twitter <!-- slightdelayhere--> at<!-- longlonglongcomment --><a href="@illopenhandle"> Twittter</a>.
+
+<p>Cheers!</p>
+
+
+
+Hi! I'm still working on our general information but this is a progress from the previous WIP site :) As you see github.com still remain as a preference.<br>
+
+In addition to new WIP site,  I'm catching up on blogging with Jekyl.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><br> 
+Things can always be more complicated so before I produce anything I’d like to make it meaningful. I’m re-reading some interesting blogs to produce a meaningful content in least words possible.
+
+<p> Based on the DB's I'm working with now, focus will be open source. Flavor of choice will remain PostgreSQL and MySQL but I'll work to include some of the other types of data store like ElasticSearch, SolR and whatever interesting I stumble upon.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf --> <br>
+
+<p> Feel free to see what we are working here: <a href="https://github.com/ubfm?tab=repositories">@ubfm</a> <br> 
+
+I’ll include twitter in the following days in case I do not opt out for something open sourced 
+<!-- slightdelayhere--> <br> 
 
 <p>Cheers!</p>
